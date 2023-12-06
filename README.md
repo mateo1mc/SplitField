@@ -21,7 +21,7 @@ Usage:
 Execution:
 - Execute the script in a Python environment:
 ```bash
-python script_name.py
+python split_r_plus.py
 ```
 
 ## Output:
