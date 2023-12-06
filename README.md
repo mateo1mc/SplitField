@@ -24,8 +24,15 @@ Execution:
 python split_r_plus.py
 ```
 
-## Output:
+## Output
 The script will modify the existing CSV file by adding new columns (if required) and populating them with relevant values from the "MainFeatures" column.
 
-## Note:
+## Note
 Ensure that the CSV file has a header row with a column named "MainFeatures" that contains the values to be split into separate columns.
+
+## Contact Information
+Feel free to connect with me and explore more:
+- [GitHub](https://github.com/mateo1mc)
+- [LinkedIn](https://www.linkedin.com/in/mateo1mc/)
+
+For further inquiries or collaboration opportunities, please don't hesitate to reach out via mateo1cela@gmail.com.
